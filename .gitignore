@@ -65,6 +65,8 @@ $RECYCLE.BIN/
 .idea/tasks.xml
 .idea/
 
+.allure/
+
 # Sensitive or high-churn files:
 .idea/dataSources/
 .idea/dataSources.ids
