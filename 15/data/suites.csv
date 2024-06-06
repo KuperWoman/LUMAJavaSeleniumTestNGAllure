@@ -1,0 +1,6 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Thu Jun 06 17:44:59 GMT 2024","Thu Jun 06 17:45:02 GMT 2024","3348","Surefire suite","Surefire test","com.lumatest.test.NavigationTest","com.lumatest.test.NavigationTest","testNavigationMenu","TC-02 Top Menu Navigation","To verify that the top menu navigation"
+"unknown","Thu Jun 06 17:44:55 GMT 2024","Thu Jun 06 17:44:55 GMT 2024","1","Surefire suite","Surefire test","TestTest","TestTest","testFail","testFail",""
+"passed","Thu Jun 06 17:45:03 GMT 2024","Thu Jun 06 17:45:05 GMT 2024","1895","Surefire suite","Surefire test","com.lumatest.test.NavigationTest","com.lumatest.test.NavigationTest","testOpenBaseURL","testOpenBaseURL","To verify that the base URL and title of the application are correct and as expected"
+"passed","Thu Jun 06 17:44:56 GMT 2024","Thu Jun 06 17:44:59 GMT 2024","3218","Surefire suite","Surefire test","com.lumatest.test.NavigationTest","com.lumatest.test.NavigationTest","testNavigationMenu","TC-02 Top Menu Navigation","To verify that the top menu navigation"
+"passed","Thu Jun 06 17:44:55 GMT 2024","Thu Jun 06 17:44:55 GMT 2024","7","Surefire suite","Surefire test","TestTest","TestTest","testPass","testPass",""
